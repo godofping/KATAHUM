@@ -1,5 +1,5 @@
 <?php 
 session_start();
 date_default_timezone_set('Asia/Manila');
-$connection = mysqli_connect("localhost", "root", "vertrigo", "okdosic_db");
+$connection = mysqli_connect("localhost", "root", "", "okdosic_db");
 ?>

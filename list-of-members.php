@@ -7,7 +7,7 @@ $_SESSION['current-page'] = 'members';
       <!--\\\\\\\ contentpanel start\\\\\\-->
       <div class="pull-left breadcrumb_admin clear_both">
         <div class="pull-left page_title theme_color">
-          <h1>REPORTS</h1>
+          <h1>MEMBERS</h1>
           <h2 class="">List of Students</h2>
         </div>
         
