@@ -47,7 +47,7 @@ $_SESSION['current-page'] = 'reports';
                     ?>
 
                     <tr>
-                      <td>₱ <?php echo $res['nameofcontributionorfine']; ?></td>
+                      <td><?php echo $res['nameofcontributionorfine']; ?></td>
                       <td>₱ <?php echo number_format($res3['total'], 2); ?></td>
                       <td>₱ <?php echo number_format($res1['total'], 2); ?></td>
                       <td>₱ <?php echo number_format($res2['total'], 2); ?></td>
