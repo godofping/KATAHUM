@@ -41,6 +41,7 @@ Technologies Used:
 - Javascript
 - Jquery
 - PHP
+- Bootstrap
 
 Database
 - Mysql
