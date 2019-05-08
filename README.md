@@ -45,3 +45,9 @@ Technologies Used:
 
 Database
 - Mysql
+
+Login Page
+- http://localhost/katahum/index.php
+- Admin username | password: admin | admin
+- Member username | password: michael | michael
+- Viewer username | password: viewer | viewer
