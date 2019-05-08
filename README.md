@@ -1,6 +1,6 @@
 # KATAHUM
 
-** Online Katahum Drafting Organization. A information system for the drafting students. **
+> Online Katahum Drafting Organization. A information system for the drafting students.
 
 **Features:**
 
